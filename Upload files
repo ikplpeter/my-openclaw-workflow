@@ -1,1 +1,62 @@
+内容输入
+├─ fortune-master-ultimate → 命理内容
+├─ trait-analysis → 性格分析
+├─ fengshui-advisor → 风水建议
+├─ environment-tips → 居家建议
+└─ emotion-system → 情绪疏导
+         ↓
+内容加工
+├─ short-video-script → 短视频脚本
+├─ article-writer → 长文/口播稿
+├─ xiaohongshu-title-generator → 爆款标题
+├─ copywriter → 各平台文案
+├─ image-creator → 封面/配图
+└─ subtitle-generator → 视频字幕
+         ↓
+素材处理
+├─ video-downloader → 下载参考视频
+├─ pdf-extract → 解析 PDF 资料
+├─ file-sorter → 整理素材
+└─ rag → 知识库管理
+         ↓
+发布
+├─ auto-social-post → 自动发布
+└─ schedule → 定时任务
 
+
+📦 全部已安装技能清单（22 个）
+完整表格
+#	技能名称	类别	用途	状态
+1	fortune-master-ultimate	🔮 命理	全体系命理大师（八字/紫微/奇门/六爻/塔罗/星盘等）	✅
+2	fengshui-advisor	🔮 命理	风水分析顾问（八宅风水 + 玄空飞星）	✅ ⚠️
+3	trait-analysis	🧠 心理	性格特质分析（合规，不占卜）	✅
+4	personality-analyzer	🧠 心理	文本性格分析	✅
+5	emotion-system	🧠 心理	情绪认知架构	✅
+6	marketing-psychology	🧠 心理	营销心理学	✅
+7	environment-tips	🏠 生活	居家环境优化建议	✅
+8	short-video-script	✍️ 创作	短视频脚本	✅
+9	article-writer	✍️ 创作	文章写作	✅
+10	xiaohongshu-title-generator	✍️ 创作	小红书标题	✅
+11	copywriter	✍️ 创作	文案撰写	✅
+12	subtitle-generator	✍️ 创作	字幕生成	✅
+13	image-creator	✍️ 创作	图像生成	✅
+14	ac-stock-ultrashort	📈 金融	A 股超短线策略	✅
+15	mx-data	📈 金融	东方财富数据	✅
+16	mx-moni	📈 金融	妙想模拟交易	✅
+17	mx-search	📈 金融	妙想搜索	✅
+18	mx-xuangu	📈 金融	妙想选股	✅
+19	mx-zixuan	📈 金融	妙想自选股	✅
+20	playwright	🛠️ 工具	浏览器自动化	✅
+21	file-sorter	🛠️ 工具	文件整理	✅
+22	auto-social-post	🛠️ 工具	自动发布	✅ ⚠️
+23	schedule	🛠️ 工具	定时任务	✅
+24	rag	🛠️ 工具	RAG 知识库	✅
+25	persona-crafter	🛠️ 工具	AI 人设设计	✅
+26	pdf-extract	🛠️ 工具	PDF 文本提取	✅
+27	video-downloader	🛠️ 工具	视频下载	✅
+
+🔮 命理/算命工具
+技能	体系	功能	触发词
+fortune-master-ultimate	全体系	八字/紫微斗数/奇门遁甲/六爻/梅花易数/塔罗/西方星盘/数字命理/九宫飞星/择吉	算命、八字、紫微、奇门、六爻、塔罗、星盘、风水、运势、占卜、合婚、择吉
+fengshui-advisor	风水	八宅风水 + 玄空飞星（居家/办公室布局）	风水、八宅、飞星、本命卦、方位布局、家居风水
+trait-analysis	性格分析	生辰节律 + 性格画像（合规，不占卜）	性格分析、天赋优势、行事节奏
